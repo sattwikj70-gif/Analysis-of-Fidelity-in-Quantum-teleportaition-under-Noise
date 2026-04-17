@@ -37,7 +37,7 @@ pip install matplotlib
 
 ## Circuit Diagram
 This is the visualization of the circuit via Matplotlib
-![Quantum Circuit](Results/Quantum Circuit.png)
+<img width="1282" height="366" alt="Quantum Circuit" src="https://github.com/user-attachments/assets/db2af83d-1a03-415d-9d90-0a58c4436848" />
 
 ## Features
 
@@ -49,7 +49,7 @@ This is the visualization of the circuit via Matplotlib
 ## Results
 
 The fidelity of teleportation decreases as noise increases, demonstrating the sensitivity of quantum information to decoherence.
-![Plot](Results/Fidelity vs Noise Graph.png)
+<img width="640" height="480" alt="Plot" src="https://github.com/user-attachments/assets/3af2cc37-ae11-4a03-a623-141be0c1765a" />
 
 
 ## License
