@@ -30,7 +30,7 @@ pip install matplotlib
 To run the experiment download the files and run the code below:
 ```
 cd src
-python experiment.py
+python Execution.py
 ```
 
 ## Key Concepts
