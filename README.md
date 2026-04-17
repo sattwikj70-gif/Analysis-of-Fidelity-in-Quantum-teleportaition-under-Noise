@@ -29,7 +29,7 @@ pip install matplotlib
 ### Usage
 To run the experiment download the files and run the code below:
 ```
-cd src
+cd Code
 python Execution.py
 ```
 
