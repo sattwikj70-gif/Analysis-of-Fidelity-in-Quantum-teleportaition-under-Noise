@@ -26,7 +26,11 @@ pip install qiskit-aer
 ```
 pip install matplotlib
 ```
-
+### Usage
+```
+cd src
+python experiment.py
+```
 ## Key Concepts
 
 - Quantum Teleportation
