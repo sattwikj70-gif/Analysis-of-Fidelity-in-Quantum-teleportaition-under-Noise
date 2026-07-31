@@ -59,7 +59,9 @@ This is the visualization of the circuit via Matplotlib
 The fidelity of teleportation decreases as noise increases, demonstrating the sensitivity of quantum information to decoherence.
 <img width="640" height="480" alt="Plot" src="https://github.com/user-attachments/assets/3af2cc37-ae11-4a03-a623-141be0c1765a" />
 
-
+## Future Improvements
+- Investigate the effects of quantum error mitigation techniques.
+- Extend the project to study multi-qubit teleportation protocols.
 ## License
 
 This project is licensed under the MIT License.
