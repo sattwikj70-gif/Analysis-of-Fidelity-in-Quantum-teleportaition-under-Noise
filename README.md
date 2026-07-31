@@ -1,4 +1,4 @@
-# Analysis-of-Fidelity-in-Quantum-teleportaition-under-Noise
+# Analysis-of-Fidelity-in-Quantum-teleportation-under-Noise
 This project simulates the Quantum teleportation protocol in Qiskit and analyses the degradation of its performance with the increase in noise.
 
 ## Built With
