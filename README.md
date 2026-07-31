@@ -1,6 +1,6 @@
 # Analysis-of-Fidelity-in-Quantum-teleportation-under-Noise
 
-This project investigates how quantum noise affects the performance of the quantum teleportation protocol using **Qiskit**. The protocol is simulated with realistic depolarizing noise models, and the fidelity of the teleported quantum state is analyzed as the noise strength increases.
+This project simulates the Quantum teleportation protocol in Qiskit and analyses the degradation of its performance with the increase in noise. The protocol is simulated with realistic depolarizing noise models.
 
 The project demonstrates how decoherence impacts the reliable transmission of quantum information and provides a simple computational framework for studying noisy quantum circuits.
 ## Built With
